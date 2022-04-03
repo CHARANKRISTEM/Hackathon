@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Russo-Ukrainian War</title>
+
+    <!-- Import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Overlock:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bakbak+One&family=Oswald&display=swap"
+      rel="stylesheet"
+    />
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <div class="container2">
+      <div class="container"></div>
+      <header>
+        <h1 class="name">Russo-Ukrainian War</h1>
+      </header>
+      <body>
+        <div class="nav-wrapper">
+          <nav>
+            <ul class="nav-links">
+              <li><a class="showthecolor" href="index.html">HOME</a></li>
+              <li><a href="generalsection.html">GENERAL</a></li>
+              <li><a href="donation.html">DONATION</a></li>
+            </ul>
+          </nav>
+          <img
+            id="image14"
+            src="https://cdn.glitch.global/a811c2d2-0318-4bdd-93a6-0a27d9c28976/4784236A-65FF-4A2B-8B4B-9EB6049ED447.png?v=1648957607825"
+          />
+        </div>
+      </body>
+      <img
+        class="image1"
+        id="image1"
+        src="https://cdn.glitch.global/29b86c02-5c80-465f-ac4d-326055e1ed25/361622A7-72B4-4CA2-9495-0F09A1B790F6.png?v=1648971252944"
+      />
+
+      <div class="information">
+        <p class="text1">Why should we donate?</p>
+
+        <img
+          id="proimage1"
+          src="https://cdn.glitch.global/29b86c02-5c80-465f-ac4d-326055e1ed25/09FBD286-A6C2-4A21-94A6-3F3DAB1A195F.jpeg?v=1648964589151"
+        />
+      </div>
+
+      <div class="totalinformation">
+        <p class="text2">
+          Our goal is to financially support Ukraine by funding some money
+          through our school. The money collected from our school will be
+          directly reached to the USA-Ukraine funding accounts.
+        </p>
+
+        <div class="nums"></div>
+      </div>
+      <div class="usefulinformation">
+        <p class="text3">Please watch the following video</p>
+
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/QaN6ibm5r-I"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+  </body>
+</html>
+
